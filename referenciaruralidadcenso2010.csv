@@ -1,0 +1,15 @@
+campo;descripcion
+SAG;Autoridad de fuente: Índice elaborado en el Ministeiro de Agroindustria en base a la información del Censo 2010 realizado por el Instituto Nacioal de Estadísticas y Censos (INDEC)
+PROVINCIA;División política provincial
+PARTIDO;División política departamental
+LINK2;Código que permite identificar de forma única los departamentos.
+LINK;Código que permite identificar de forma única los radios censales. Por medio de este código se puede asociar los objetos geográficos con la información. 
+COD_PROV;Código Provincial
+COD_DEPTO;División política provincial
+URB;Población Urbana del radio censal. 
+r_ruruagr;Porbalción rural agrupada del radio censal. 
+r_rurdisp;Porbalción rural dispersa del radio censal. 
+r_rurtot;Población rural total del radio censal. 
+T_URB_RUR;Población total del radio censal
+P_URB;Porcentaje de pobalción urbana en el radio censal. 
+r_porcrur;Porcentaje de pobalción rural en el radio censal. 
